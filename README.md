@@ -27,3 +27,9 @@ Is possible to query multiple values by separating them with a comma `,` e.g. `h
 | `province` | Records by province |
 
 ---
+
+## TODOs
+
+- Make `missingSince` field a string <date-time>
+- Explore the use of filters instead of query params
+- Add status errors
