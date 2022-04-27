@@ -13,7 +13,7 @@ For more information.
 ### GET `/missing`
 Displays a list of all records.
 
-#### QUERY PARAMETERS
+#### Query Parameters
 Use them at the end of the request `URL` multiple queries can be added by using ampersands to separate them e.g. `https://canada-missing-children-api.herokuapp.com/missing?name={NAME}&province={PROVINCE_NAME}`.
 
 Is possible to query multiple values by separating them with a comma `,` e.g. `https://canada-missing-children-api.herokuapp.com/missing?name={NAME},{NAME2},{NAME3}`
@@ -30,6 +30,6 @@ Is possible to query multiple values by separating them with a comma `,` e.g. `h
 
 ## TODOs
 
-- Make `missingSince` field a string <date-time>
+- Make `missingSince` field a string `<date-time>`
 - Explore the use of filters instead of query params
 - Add status errors
