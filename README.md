@@ -1,6 +1,6 @@
 # canada-missing-children-api
 Canada missing children API.
-[https://canada-missing-children-api.herokuapp.com/](https://canada-missing-children-api.herokuapp.com/)
+[https://cmc-api.fly.dev/](https://cmc-api.fly.dev/)
 
 For more information.
 
