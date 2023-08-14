@@ -14,9 +14,9 @@ For more information.
 Displays a list of all records.
 
 #### Query Parameters
-Use them at the end of the request `URL` multiple queries can be added by using ampersands to separate them e.g. `https://canada-missing-children-api.herokuapp.com/missing?name={NAME}&province={PROVINCE_NAME}`.
+Use them at the end of the request `URL` multiple queries can be added by using ampersands to separate them e.g. `https://cmc-api.fly.dev/missing?name={NAME}&province={PROVINCE_NAME}`.
 
-Is possible to query multiple values by separating them with a comma `,` e.g. `https://canada-missing-children-api.herokuapp.com/missing?name={NAME},{NAME2},{NAME3}`
+Is possible to query multiple values by separating them with a comma `,` e.g. `https://cmc-api.fly.dev/missing?name={NAME},{NAME2},{NAME3}`
 
 | Query Param | Description |
 |-----|-----|
